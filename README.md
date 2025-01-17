@@ -1,5 +1,3 @@
-Here’s the markdown version of the content you provided, formatted for better readability and structure:
-
 
 # Dangit, I committed and immediately realized I need to make one small change!
 
