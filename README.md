@@ -143,4 +143,5 @@ For real though, if your branch is sooo borked that you need to reset the state 
 
 ---
 
-This markdown version uses headers (`#`), code blocks (` ```bash ... ``` `), and emphasis where appropriate. It should now be much easier to read and use.
+
+source: https://dangitgit.com/en
