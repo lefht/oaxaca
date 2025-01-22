@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Generated files
+posts/*.html
+
+# System files
+.DS_Store
